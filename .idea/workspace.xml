@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d90f8cc2-8bbb-45b2-b192-5157afc8282f" name="Changes" comment="" />
+    <list default="true" id="d90f8cc2-8bbb-45b2-b192-5157afc8282f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KeywordAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KeywordAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Label.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Label.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NegativeTextAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NegativeTextAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SpamAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpamAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TextAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TextAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TooLongTextAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TooLongTextAnalyzer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KsmEtpux4ghPWVc8S1yGwPy1db" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,7 +40,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public enum Label {
+enum Label {
+    SPAM, NEGATIVE_TEXT, TOO_LONG, OK
 }

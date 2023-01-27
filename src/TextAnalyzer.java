@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface TextAnalyzer {
+public interface TextAnalyzer {
+    Label processText(String text);
 }
